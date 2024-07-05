@@ -5,7 +5,7 @@
 ###Please be patient, it may take a minute or two. 
 
 # Source the script from GitHub
-source("https://raw.githubusercontent.com/noah-schroeder/simple_meta-analysis/main/run_app.R")
+source("https://raw.githubusercontent.com/noah-schroeder/runSMA/main/run_app.R")
 
 # Call the function to run the app
 runApp()
